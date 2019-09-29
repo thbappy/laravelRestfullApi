@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="598cbdd0-6013-455d-8cda-af15e3028e30" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/restapi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/restapi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-    </list>
+    <list default="true" id="598cbdd0-6013-455d-8cda-af15e3028e30" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +184,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569782304886</updated>
       <workItem from="1569782317206" duration="214000" />
-      <workItem from="1569763344635" duration="16108000" />
+      <workItem from="1569763344635" duration="16534000" />
     </task>
     <task id="LOCAL-00001" summary="Add Authkey Middleware for Authentication">
       <created>1569775908026</created>
@@ -222,7 +214,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569780358470</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add password pacakge and installation and configuration">
+      <created>1569786414426</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569786414426</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add password pacakge and installation and configuration">
+      <created>1569786422266</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569786422266</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,7 +248,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Authkey Middleware for Authentication" />
     <MESSAGE value="Add Auth Basic Middleware for Authentication" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Auth Basic Middleware for Authentication" />
+    <MESSAGE value="Add password pacakge and installation and configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add password pacakge and installation and configuration" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
