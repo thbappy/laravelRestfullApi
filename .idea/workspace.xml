@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="598cbdd0-6013-455d-8cda-af15e3028e30" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569782304886</updated>
       <workItem from="1569782317206" duration="214000" />
-      <workItem from="1569763344635" duration="12834000" />
+      <workItem from="1569763344635" duration="13697000" />
     </task>
     <task id="LOCAL-00001" summary="Add Authkey Middleware for Authentication">
       <created>1569775908026</created>
@@ -188,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569775915731</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Auth Basic Middleware for Authentication">
+      <created>1569777460128</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569777460128</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +213,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Authkey Middleware for Authentication" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Authkey Middleware for Authentication" />
+    <MESSAGE value="Add Auth Basic Middleware for Authentication" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Auth Basic Middleware for Authentication" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
