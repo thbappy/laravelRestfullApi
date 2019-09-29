@@ -21,5 +21,8 @@ Route::get('task/{id}','TaskController@taskId');
 Route::post('task','TaskController@taskSave');
 Route::put('task/{id}', 'TaskController@taskUpdate');
 Route::delete('task/{task}', 'TaskController@taskDelete');*/
+Route::group(['middleware' => 'auth:api'], function(){
+    Route::apiResource('task','Api\TaskController');
+});
 
-Route::apiResource('task','Api\TaskController');
+
